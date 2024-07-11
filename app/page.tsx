@@ -1,10 +1,9 @@
 import { Room } from "./Room";
-import { CollaborativeApp } from "./CollaborativeApp";
 
 export default function Page() {
   return (
     <Room>
-      <CollaborativeApp />
+      <h1>This is an figma clone!</h1>
     </Room>
   );
 }
